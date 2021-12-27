@@ -1,0 +1,19 @@
+h1 {
+    font-family: fantasy;
+    color: blanchedalmond;
+    background-color: brown;
+    text-align: center;
+}
+
+h2 {
+    font-family: fantasy;
+    color: blanchedalmond;
+    background-color: brown;
+    text-align: center;
+}
+
+canvas {
+    box-shadow: 1px 1px 40px red;
+    border: 5px ridge black;
+    
+}
